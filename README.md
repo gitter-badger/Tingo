@@ -1,5 +1,7 @@
 # Tingo
 
+[![Join the chat at https://gitter.im/Tingo-Github/Lobby](https://badges.gitter.im/Tingo-Github/Lobby.svg)](https://gitter.im/Tingo-Github/Lobby?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 [![Gitter](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/CSE_442/Tingo?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 
 A friend that keeps you on your toes.
